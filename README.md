@@ -1,3 +1,4 @@
 # hello-world
-This is the tutorial repo
+This is the tutorial. I deleted the word repo.
 We never have enough time to go to the beach. My name is Jorin.
+This is my addition. 
